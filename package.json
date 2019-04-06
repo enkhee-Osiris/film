@@ -8,8 +8,10 @@
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.4.3",
+    "gsap": "^2.1.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "three": "^0.103.0"
   },
   "scripts": {
     "eslint": "eslint --config config/.eslintrc.js src/**/*.js",
